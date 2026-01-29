@@ -18,6 +18,8 @@ With the tool enabled, you can:
 
 Think of it as a stabilizing hand—not an autopilot.
 
+[![Activate Now](../btn.png)](https://pubg-aimassist.github.io/.github/)
+
 ---
 
 ## 👁 Aim Assist Core Modules
